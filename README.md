@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently studying 
-- 🌱 I’m currently learning Design||Mobile application development with FLUTTER||AWS CLOUD||
+- 🌱 I’m currently learning ||Design||Mobile application development with FLUTTER||AWS CLOUD||
 - 👯 I’m looking to collaborate on Website development
 - 💬 Ask me about Frontend language(Html5,Css and Javascript)||Database(Mysql,AccessDb and MongoDb)
 - 📫 How to reach me:Here is my email maxpascal03@gmail.com 
