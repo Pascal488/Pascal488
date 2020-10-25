@@ -2,7 +2,7 @@
 # I'm a Developer and Speaker
 
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently studying 
 - 🌱 I’m currently learning Design||Mobile application development with FLUTTER||AWS CLOUD||
