@@ -1,5 +1,5 @@
 ### Hi I'm Faru 👋
-# I'm a Developer and Speaker
+# I'm a Developer 
 
 
 
