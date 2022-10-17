@@ -4,10 +4,10 @@
 
 Am a front end developer based in Dar es salaam-Tanzania passionate and strong skilled..
 
-Skills: REACT | JS | HTML | CSS | GIT | AWS |
+Skills: REACT | JS | HTML | CSS | GIT | 
 
-- 🔭 I’m currently working on Collage project 
-- 🌱 I’m currently learning React |Cloud computing in AWS 
+
+
 - 👯 I’m looking to collaborate on Website development 
 - 💬 Ask me about Js  
 - 📫 How to reach me: maxpascal03@gmail.com 
