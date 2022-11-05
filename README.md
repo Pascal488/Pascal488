@@ -4,7 +4,7 @@
 
 Am a front end developer based in Dar es salaam-Tanzania passionate and strong skilled..
 
-Skills: REACT | JS | HTML | CSS | GIT | 
+Skills: REACT | JS | HTML | CSS | GIT | TS |
 
 
 
