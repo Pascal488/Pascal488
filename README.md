@@ -2,7 +2,7 @@
 #### I am Front end developer
 ![I am Front end developer](https://photos.app.goo.gl/EBVHvXQykRSPLGT59)
 
-Am a front end developer based in Dar es salaam-Tanzania passionate and strong skilled..
+Am a software developer based in Dar es salaam-Tanzania passionate and strong skilled..
 
 Tech stack: REACT  | JS | HTML | CSS | GIT | TS | ANDROID | NEXT JS | GRAPHQL | MONGODB | VB | TAILWIND | NEST JS | MYSQL | TAILWIND CSS | PHP 
 
